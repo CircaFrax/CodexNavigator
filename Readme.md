@@ -7,3 +7,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/CircaFrax/CodexNavigator/main/assets/CodexNavigator_box.png" width="420">
 </p>
+
+
+### 📄 Licence
+CircaFrax Proprietary Freeware
+
+---
+**Fait partie de la suite Codex** — des logiciels qui s'utilisent sans installation, comme en 1998, mais en mieux.
