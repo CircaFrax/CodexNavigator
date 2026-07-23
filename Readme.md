@@ -20,7 +20,7 @@ CodexNavigator/
 ```
 
 ### 🔒 Confidentialité
-- **Zéro réseau** : tout se passe sur votre PC, sert de lien vers les navigateurs.
+- **Zéro réseau** : sert de lien vers les navigateurs.
 
 ### 📄 Licence
 CircaFrax Proprietary Freeware
