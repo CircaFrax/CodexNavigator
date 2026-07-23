@@ -5,5 +5,5 @@
 # CodexNavigator v2.3.1
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CircaFrax/CodexHiddenWind/main/assets/CodexNvigator_box.png" width="420">
+  <img src="https://raw.githubusercontent.com/CircaFrax/CodexNavigator/main/assets/CodexNavigator_box.png" width="420">
 </p>
