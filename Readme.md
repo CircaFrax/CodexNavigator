@@ -9,6 +9,19 @@
 </p>
 
 
+### 📁 Structure
+
+```
+CodexNavigator/
+├───CodexNavigator_v1.1.exe
+├───LICENCE.md
+├───LICENSE.md
+└───THIRD_PARTY_LICENSES.md
+```
+
+### 🔒 Confidentialité
+- **Zéro réseau** : tout se passe sur votre PC
+
 ### 📄 Licence
 CircaFrax Proprietary Freeware
 
