@@ -13,7 +13,7 @@
 
 ```
 CodexNavigator/
-├───CodexNavigator_v3.0.0.exe
+├───CodexNavigator.exe
 ├───LICENCE.md
 ├───LICENSE.md
 └───THIRD_PARTY_LICENSES.md
