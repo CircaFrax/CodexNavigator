@@ -2,7 +2,7 @@
   <img src="https://circafrax.github.io/assets/banniere.png" width="500">
 </p>
 
-# CodexNavigator v2.3.1
+# CodexNavigator v3.0.0
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CircaFrax/CodexNavigator/main/assets/CodexNavigator_box.png" width="420">
@@ -13,7 +13,7 @@
 
 ```
 CodexNavigator/
-├───CodexNavigator_v1.1.exe
+├───CodexNavigator_v3.0.0.exe
 ├───LICENCE.md
 ├───LICENSE.md
 └───THIRD_PARTY_LICENSES.md
