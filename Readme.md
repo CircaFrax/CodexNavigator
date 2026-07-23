@@ -1,3 +1,9 @@
-En construction - on garde le cap
+<p align="center">
+  <img src="https://circafrax.github.io/assets/banniere.png" width="500">
+</p>
 
-Multilauncher de navigateurs avec gestion de moteurs de recherches et favoris.
+# CodexNavigator v2.3.1
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CircaFrax/CodexHiddenWind/main/assets/CodexNvigator_box.png" width="420">
+</p>
